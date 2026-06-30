@@ -1,0 +1,17 @@
+.sitewidget-button .component-btn{display:inline-block}
+.button-left-animate i{position:absolute;left:15px;top:50%;transform:translateY(-50%)}
+.sitewidget-button .backstage-component-btn.widget-btn-styles1{border-radius:0}
+.sitewidget-button .backstage-component-btn.widget-btn-styles2{border-radius:5px}
+.sitewidget-button .backstage-component-btn.widget-btn-styles3{border-radius:50px}
+.sitewidget-button .backstage-component-btn.widget-btn-styles4,.sitewidget-button .backstage-component-btn.widget-btn-styles5,.sitewidget-button .backstage-component-btn.widget-btn-styles6{background-color:#f7f7f7;border-radius:5px;color:#666;border:1px solid #dfdfdf}
+.sitewidget-button .backstage-component-btn.widget-btn-styles4:hover,.sitewidget-button .backstage-component-btn.widget-btn-styles5:hover,.sitewidget-button .backstage-component-btn.widget-btn-styles6:hover{background-color:#eee;color:#333}
+.sitewidget-button .backstage-component-btn.widget-btn-styles4{border-radius:0}
+.sitewidget-button .backstage-component-btn.widget-btn-styles6{border-radius:50px}
+.sitewidget-button .backstage-component-btn{font-size:14px;text-decoration:none;display:inline-block;vertical-align:middle;text-align:center;position:relative;overflow:hidden;z-index:4;max-width:100%;box-sizing:content-box}
+.sitewidget-button .backstage-component-btn:hover{text-decoration:none}
+.sitewidget-button .backstage-component-btn:hover i{text-decoration:none}
+.sitewidget-button .backstage-component-btn:before,.sitewidget-button .backstage-component-btn:after{content:"";display:inline-block;position:absolute;z-index:-1}
+@media(min-width:600px){.sitewidget-button .backstage-component-btn,.sitewidget-button .backstage-component-btn:hover,.sitewidget-button .backstage-component-btn:hover i,.sitewidget-button .backstage-component-btn:before,.sitewidget-button .backstage-component-btn:after{-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+}
+.sitewidget-button .button-awesome-animate>i{width:0;display:inline-block;opacity:0;-webkit-transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;transition:all .2s ease-in-out}
+.sitewidget-button .button-awesome-animate:hover>i{width:2em;opacity:1}

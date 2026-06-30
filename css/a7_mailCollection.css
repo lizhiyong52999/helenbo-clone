@@ -1,0 +1,32 @@
+.sitewidget-mailCollection .mailCollection-wrap{position:relative}
+.sitewidget-mailCollection .errormessage{color:#de0909}
+.sitewidget-mailCollection .mailInput{max-width:90%;text-indent:10px;outline:0;background-color:transparent;box-shadow:0 0 0 #fff}
+.sitewidget-mailCollection .submitBtn{position:absolute;z-index:2;color:#fff;font-size:16px;text-align:center}
+.sitewidget-mailCollection .submitBtn:hover{opacity:.9}
+.sitewidget-mailCollection .mailCollection-wrap .post-loading{cursor:not-allowed}
+.sitewidget-mailCollection .mailCollection-wrap .post-loading span:first-child,.sitewidget-mailCollection .mailCollection-wrap .post-success span:first-child{display:none}
+.sitewidget-mailCollection .mailCollection-wrap #submit.post-success{background-color:#59ab08}
+.sitewidget-mailCollection .mailCollection-style-default{background-color:#fff;border:1px solid #d8dde6;border-radius:3px}
+.sitewidget-mailCollection .mailCollection-style-default .mailInput{height:38px;line-height:38px;border:0}
+.sitewidget-mailCollection .mailCollection-style-default .submitBtn{top:-1px;bottom:-1px;right:-1px;line-height:40px;border-radius:0 3px 3px 0;padding:0 24px;background-color:#3890ff}
+.sitewidget-mailCollection .mailCollection-style-default .submitBtn .fa{line-height:40px}
+.sitewidget-mailCollection .mailCollection-style-otherDefault .mailInput{height:38px;border-radius:3px;line-height:38px;background-color:#fff;border:1px solid #d8dde6}
+.sitewidget-mailCollection .mailCollection-style-otherDefault .submitBtn{top:0;bottom:0;right:0;border-radius:3px;line-height:40px;padding:0 24px;border:1px solid #3890ff;background-color:#3890ff}
+.sitewidget-mailCollection .mailCollection-style-otherDefault .submitBtn .fa{line-height:40px}
+.sitewidget-mailCollection .mailCollection-style-redBtn{background-color:#f4f6f9;border:1px solid #d8dde6}
+.sitewidget-mailCollection .mailCollection-style-redBtn .mailInput{height:48px;line-height:48px;border:0}
+.sitewidget-mailCollection .mailCollection-style-redBtn .submitBtn{top:-1px;bottom:-1px;right:-1px;line-height:50px;padding:0 20px;background-color:#f24d4d}
+.sitewidget-mailCollection .mailCollection-style-redBtn .submitBtn .fa{line-height:50px}
+.sitewidget-mailCollection .mailCollection-style-otherRedBtn .mailInput{background-color:#f4f6f9;border:1px solid #d8dde6;height:48px;line-height:48px}
+.sitewidget-mailCollection .mailCollection-style-otherRedBtn .submitBtn{top:0;bottom:0;right:0;line-height:50px;padding:0 20px;background-color:#f24d4d}
+.sitewidget-mailCollection .mailCollection-style-otherRedBtn .submitBtn .fa{line-height:50px}
+.sitewidget-mailCollection .mailCollection-style-borderRadius{background-color:#fff;border:1px solid #d8dde6;border-radius:50px}
+.sitewidget-mailCollection .mailCollection-style-borderRadius .mailInput{height:46px;line-height:46px;border:0}
+.sitewidget-mailCollection .mailCollection-style-borderRadius .submitBtn{top:6px;bottom:6px;right:6px;line-height:34px;border-radius:50px;padding:0 10px;background-color:#ff9a3c}
+.sitewidget-mailCollection .mailCollection-style-borderRadius .submitBtn .fa{line-height:34px}
+.arabic-exclusive .sitewidget-mailCollection .mailCollection-style-default .submitBtn{left:0 !important;right:auto !important;border-radius:3px 0 0 3px}
+.arabic-exclusive .sitewidget-mailCollection .mailCollection-style-otherDefault .submitBtn{left:0 !important;right:auto !important}
+.arabic-exclusive .sitewidget-mailCollection .mailCollection-style-redBtn .submitBtn{left:0 !important;right:auto !important}
+.arabic-exclusive .sitewidget-mailCollection .mailCollection-style-otherRedBtn .submitBtn{left:0 !important;right:auto !important}
+.arabic-exclusive .sitewidget-mailCollection .mailCollection-style-borderRadius .submitBtn{left:0 !important;right:auto !important}
+.block-container .sitewidget-mailCollection .sitewidget-hd{margin-bottom:5px}

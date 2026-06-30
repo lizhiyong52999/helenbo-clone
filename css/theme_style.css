@@ -1,0 +1,65 @@
+@media screen and (max-width: 768px){
+  #location_1636681598713 .sitewidget-bd div {
+  overflow-x: auto;
+}
+  #component_oEKLPMjioWFZ > div > div > div{
+  	  display: flex;
+  }
+  .sitewidget-jumpNum-20211122134213 .sitewidget-bd,.sitewidget-jumpNum-20211122134452,.sitewidget-jumpNum-20211122134829 .sitewidget-bd{
+  	    border: 0 !important;
+  }
+  #outerContainer_1642471668757 > div > div{
+  	    display: flex;
+    	flex-wrap: wrap;
+  }
+  
+  #column_1639738866695{
+  	width: 50%;
+    float: left;
+  }
+  #column_1639740219053{
+  	width: 50%;
+    float: left;
+  }
+  #component_cNfVvgpsLDkZ > div > div,#component_eoKqlBUiVjAt > div > div{
+  	    font-size: 19px;
+    	white-space: nowrap;
+  }
+  div.qiaoxin9064 .proshow-scroll-list .proshow-scroll-item .proshow-scroll-main .item-img{
+  	height: 225px;
+  }
+  #siteblocks-setting-wrap-orAVknCLeKRO > div > div > div > div.gai > div > div > div > div > div > div{
+  	display: flex;
+    justify-content: space-around;
+  }
+  div.qiaoxin9064 .proshow-scroll-list .proshow-scroll-item{
+  		width: 45%;
+  }
+  div.qiaoxin9064 .proshow-scroll-list .proshow-scroll-item:nth-child(n+2) {
+    margin-top: 0;
+   }
+  
+  #component_fyfBGgpiqtCj > div > div > div,#component_iGKLlBAsgNyj > div > div > div{
+  	height: 158px !important;
+  }
+  #picture-wrap-fyfBGgpiqtCj > a,#picture-wrap-iGKLlBAsgNyj > a{
+  	text-align: center;
+  }
+  #picture-wrap-fyfBGgpiqtCj > a > img,#picture-wrap-iGKLlBAsgNyj > a > img{
+  	    width: 71%;
+  }
+  #component_oEfBbqpzTDCt > div > div > div{
+  	margin-right:6%;
+  }
+  #component_oEfBbqpzTDCt > div > div > div,#picture-wrap-rpfLGgKeTOIj{
+  	       width: 47% !important;
+    		float: left !important;
+  }
+}  
+
+  div.customContainer16394{
+  		margin-top: 0 !important;
+  }
+BODY > #backstage-bodyArea > #outerContainer_1417067775027 > DIV > DIV > #column_7315ee1ae38d42ef85602636eda8a7a1 > #location_1417067775056 > #component_vzpLaKkiuyGj > DIV:nth-child(1) > DIV:nth-child(1) > DIV:nth-child(3) > DIV:nth-child(2) > DIV > DIV > H1 {
+	margin-top:40px !important;
+}
